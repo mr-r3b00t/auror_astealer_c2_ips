@@ -1,4 +1,4 @@
-# auror_astealer_c2_ips
+# AURORA STEALER
 baddies infra
 
 word in progress, some false positives might exist.
